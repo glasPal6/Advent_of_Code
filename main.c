@@ -1,8 +1,9 @@
 
+#include <stdint.h>
 #include <stdio.h>
 
 void problem_1(FILE *input) {}
-void problem_2(FILE *input) {}
+/*void problem_2(FILE *input) {}*/
 
 int main(int argc, char *argv[]) {
     char *filename = "input.txt";
@@ -12,12 +13,12 @@ int main(int argc, char *argv[]) {
 
     FILE *input = fopen(filename, "r");
     if (input == NULL) {
-        printf("The input file cannot be opened!");
+        printf("The input file cannot be opened!\n");
         return 1;
     }
 
     problem_1(input);
-    problem_2(input);
+    /*problem_2(input);*/
 
     fclose(input);
     return 0;

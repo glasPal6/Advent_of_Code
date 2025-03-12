@@ -1,4 +1,5 @@
 cookies.txt
+AOC_Code/*/*/*
+!AOC_Code/*/*/*.*
 AOC_Code/*/*/input.txt
 AOC_Code/*/*/index.html
-AOC_Code/*/*/*
