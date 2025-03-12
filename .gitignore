@@ -1,5 +1,6 @@
 cookies.txt
 AOC_Code/*/*/*
 !AOC_Code/*/*/*.*
+!AOC_Code/*/*/Makefile
 AOC_Code/*/*/input.txt
 AOC_Code/*/*/index.html
