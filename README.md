@@ -2,7 +2,7 @@
 
 Repo structure:
 
-- `AOC_Code/Date/problem/
+- `AOC_Code/Date/problem/`
 - Project root: stub `main.c`, `Makefile`
 
 ## Progress
